@@ -15,7 +15,7 @@ I'm a mid/high level pentester with about 4 years of experience and i live in ir
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=disheartenedethereal&show_icons=true&theme=vue"/>
 </a>
 <a href="https://github.com/disheartenedethereal/disheartenedethereal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dethereal"/>
 </a>
 
 
