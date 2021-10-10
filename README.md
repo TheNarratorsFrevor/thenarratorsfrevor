@@ -11,7 +11,7 @@ I'm a mid/high level pentester with about 4 years of experience and i live in ir
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disheartenedethereal&layout=compact"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=vue"/>
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=disheartenedethereal&show_icons=true&theme=vue"/>
 </a>
 
 
