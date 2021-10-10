@@ -8,7 +8,8 @@ I'm a mid/high level pentester with about 4 years of experience and i live in ir
 ![](https://img.shields.io/badge/tech-Linux-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=critical) ![](https://img.shields.io/badge/tech-Vim-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=critical) ![](https://img.shields.io/badge/tech-Git-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=critical) ![](https://img.shields.io/badge/tech-Make-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=critical) ![](https://img.shields.io/badge/tech-Nmap-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=critical) ![](https://img.shields.io/badge/tech-Metasploit-informational?style=flat-square&logo=<LOGO_NAME>&logoColor=white&color=critical)
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disheartenedethereal&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disheartenedethereal")
+"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=disheartenedethereal&show_icons=true&theme=vue"/>
