@@ -20,13 +20,13 @@ I'm a mid/high level pentester with about 4 years of experience and I live in Ir
 
 # Social
 
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [DisheartenedEtheral](https://instagram.com/disheartenedethereal)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) -> [DisheartenedEtheral](https://instagram.com/disheartenedethereal)
 
-![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) [Adroit#1112](https://discordapp.com/431385646741008385)
+![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) -> [Adroit#1112](https://discordapp.com/431385646741008385)
 
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [DetherealAlt](https://twitter.com/detherealalt)
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) -> [DetherealAlt](https://twitter.com/detherealalt)
 
-![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) [DisheartenedEthereal](https://stackoverflow.com/users/17112567/d-ethereal)
+![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) -> [DisheartenedEthereal](https://stackoverflow.com/users/17112567/d-ethereal)
 
 
 # Stats
