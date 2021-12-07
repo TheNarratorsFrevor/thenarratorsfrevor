@@ -1,8 +1,8 @@
 # Hellooooo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a mid/high level pentester with about 4 years of experience and I live in Iran, I work with bug bounty programs at websites like [hackerone](hackeone.com) as a freelancer. 
->due to personal reasons i prefer not to disclose my name publicly.
->Person in profile is Per Yngve Ohlin  
+> Due to personal reasons i prefer not to disclose my name publicly.
+> Person in profile is Per Yngve Ohlin  
 # My tech and tools
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
