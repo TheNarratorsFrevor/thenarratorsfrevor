@@ -1,4 +1,4 @@
-# Hellooooo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 I'm a mid/high level pentester with about 4 years of experience and I live in Iran, I work with bug bounty programs at websites like [hackerone](hackeone.com) as a freelancer. 
 > Due to personal reasons i prefer not to disclose my name publicly.
