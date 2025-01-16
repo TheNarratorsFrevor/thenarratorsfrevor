@@ -48,14 +48,14 @@
 
 # Stats
 <a href="https://github.com/thenarratorsfrevor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disheartenedethereal") 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenarratorsfrevor") 
 "/>
 </a>
 <a href="https://github.com/thenarratorsfrevor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=disheartenedethereal&show_icons=true&theme=vue"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thenarratorsfrevor&show_icons=true&theme=vue"/>
 </a>
 <a href="https://github.com/thenarratorsfrevor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dethereal"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=thenarratorsfrevor"/>
 </a>
 
                                                                                                   
