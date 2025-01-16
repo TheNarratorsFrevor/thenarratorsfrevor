@@ -1,6 +1,4 @@
 
-
-I'm a mid/high level pentester with about 4-6 years of experience and I live in Iran, I work with bug bounty programs at websites like [hackerone](hackeone.com) as a freelancer. 
   
 # My tech and tools
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,14 +47,14 @@ I'm a mid/high level pentester with about 4-6 years of experience and I live in 
 
 
 # Stats
-<a href="https://github.com/disheartenedethereal">
+<a href="https://github.com/thenarratorsfrevor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disheartenedethereal") 
 "/>
 </a>
-<a href="https://github.com/disheartenedethereal">
+<a href="https://github.com/thenarratorsfrevor">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=disheartenedethereal&show_icons=true&theme=vue"/>
 </a>
-<a href="https://github.com/disheartenedethereal">
+<a href="https://github.com/thenarratorsfrevor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=dethereal"/>
 </a>
 
